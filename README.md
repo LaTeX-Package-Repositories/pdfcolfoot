@@ -13,7 +13,7 @@ across pages.
 
 ## Github/Issues
 
-*    https://github.com/ho-tex/pdfcolfoot/issues
+*    https://github.com/LaTeX-Package-Repositories/pdfcolfoot/issues
 
 
 ## License
